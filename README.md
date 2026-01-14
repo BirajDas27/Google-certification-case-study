@@ -33,12 +33,13 @@ Key stakeholders:
 🔹 Cyclistic is a **fictional company** used for this case study  
 🔹 Data spans **multiple months** and includes millions of ride records  
 🔹 Personally identifiable information (PII) is excluded  
-🔹 ROCCC verified:
-    ✅ Reliable → Official provider  
-    ✅ Original → First-party data  
-    ✅ Comprehensive → Covers multiple months  
-    ✅ Current → Recent operational data  
-    ✅ Cited → License acknowledged  
+
+## ROCCC verified:  
+ ✅ Reliable → Official provider  
+ ✅ Original → First-party data  
+ ✅ Comprehensive → Covers multiple months  
+ ✅ Current → Recent operational data  
+ ✅ Cited → License acknowledged  
 
 ---
 
@@ -46,7 +47,7 @@ Key stakeholders:
 The raw dataset contains individual trip-level records with ride details such as start time, end time, rider type, and station information.
 
 📸 **Raw Data Snapshot**
-![ss](raw_data.png)
+![](ss/raw_data.png)
 
 ---
 
@@ -62,7 +63,7 @@ Key processing steps performed:
 
 
 📸 **Processed Data Snapshot**
-![ss](processed_data.png)
+![](ss/processed_data.png)
 
 ---
 
@@ -72,7 +73,9 @@ Key processing steps performed:
 Casual riders consistently take **longer rides** compared to members across all months.
 
 📸 **Average Ride Length by Month**
-![ss](avg_ride_length.png)
+![](ss/avg_ride_length.png)  
+  
+### 📌 Casual riders have longer ride lengths than members throughout the months.
 
 ---
 
@@ -80,8 +83,10 @@ Casual riders consistently take **longer rides** compared to members across all 
 - **Members** ride more frequently on **weekdays** (commute behavior)
 - **Casual riders** peak on **weekends** (leisure behavior)
 
-📸 **Ride Frequency by Day of Week**
-![ss](ride_len_DOW.png)
+📸 **Ride Frequency by Day of Week**  
+![](ss/ride_len_DOW.png)
+
+### 📌 Casual riders' frequency is more during weekends compared to members being more active during weekdays.
 
 ---
 
@@ -91,7 +96,9 @@ This comparison highlights a clear contrast:
 - Members → **More rides, shorter duration**
 
 📸 **Ride Length vs Frequency**
-![ss](ride_len_vs_freq.png)
+![](ss/ride_len_vs_freq.png)
+
+### 📌 As casual have higher average ride length, we can see that frequency of using bikes in higher for members compared to casual.
 
 ---
 
