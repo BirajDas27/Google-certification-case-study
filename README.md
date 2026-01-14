@@ -80,7 +80,7 @@ Casual riders consistently take **longer rides** compared to members across all 
 - **Members** ride more frequently on **weekdays** (commute behavior)
 - **Casual riders** peak on **weekends** (leisure behavior)
 
-📸 **Ride Frequency by Day of Week**
+📸 **Ride Frequency by Day of Week**  
 ![](ss/ride_len_DOW.png)
 
 ---
