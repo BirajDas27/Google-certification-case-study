@@ -33,12 +33,13 @@ Key stakeholders:
 🔹 Cyclistic is a **fictional company** used for this case study  
 🔹 Data spans **multiple months** and includes millions of ride records  
 🔹 Personally identifiable information (PII) is excluded  
-🔹 ROCCC verified:
-    ✅ Reliable → Official provider  
-    ✅ Original → First-party data  
-    ✅ Comprehensive → Covers multiple months  
-    ✅ Current → Recent operational data  
-    ✅ Cited → License acknowledged  
+
+## ROCCC verified:  
+ ✅ Reliable → Official provider  
+ ✅ Original → First-party data  
+ ✅ Comprehensive → Covers multiple months  
+ ✅ Current → Recent operational data  
+ ✅ Cited → License acknowledged  
 
 ---
 
@@ -74,7 +75,7 @@ Casual riders consistently take **longer rides** compared to members across all 
 📸 **Average Ride Length by Month**
 ![](ss/avg_ride_length.png)  
   
-### Casual riders have longer ride lengths than members throughout the months.
+### 📌 Casual riders have longer ride lengths than members throughout the months.
 
 ---
 
@@ -85,7 +86,7 @@ Casual riders consistently take **longer rides** compared to members across all 
 📸 **Ride Frequency by Day of Week**  
 ![](ss/ride_len_DOW.png)
 
-### Casual riders' frequency is more during weekends compared to members being more active during weekdays.
+### 📌 Casual riders' frequency is more during weekends compared to members being more active during weekdays.
 
 ---
 
@@ -97,7 +98,7 @@ This comparison highlights a clear contrast:
 📸 **Ride Length vs Frequency**
 ![](ss/ride_len_vs_freq.png)
 
-### As casual have higher average ride length, we can see that frequency of using bikes in higher for members compared to casual.
+### 📌 As casual have higher average ride length, we can see that frequency of using bikes in higher for members compared to casual.
 
 ---
 
