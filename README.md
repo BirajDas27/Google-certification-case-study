@@ -127,3 +127,12 @@ By leveraging these insights, Cyclistic can design **data-driven marketing strat
 
 ## 📎 Project Structure
 ![](Visuals/file_structure.png)
+
+---
+
+## 🙌 Acknowledgements
+This project is based on the **Cyclistic Bike-Share Case Study**, using publicly available Divvy data for educational and portfolio purposes.
+
+---
+
+⭐ *If you found this project insightful, feel free to explore the analysis and visuals above!*
