@@ -72,7 +72,9 @@ Key processing steps performed:
 Casual riders consistently take **longer rides** compared to members across all months.
 
 📸 **Average Ride Length by Month**
-![](ss/avg_ride_length.png)
+![](ss/avg_ride_length.png)  
+  
+### Casual riders have longer ride lengths than members throughout the months.
 
 ---
 
@@ -83,6 +85,8 @@ Casual riders consistently take **longer rides** compared to members across all 
 📸 **Ride Frequency by Day of Week**  
 ![](ss/ride_len_DOW.png)
 
+### Casual riders' frequency is more during weekends compared to members being more active during weekdays.
+
 ---
 
 ### 🔁 Ride Length vs Ride Frequency
@@ -92,6 +96,8 @@ This comparison highlights a clear contrast:
 
 📸 **Ride Length vs Frequency**
 ![](ss/ride_len_vs_freq.png)
+
+### As casual have higher average ride length, we can see that frequency of using bikes in higher for members compared to casual.
 
 ---
 
