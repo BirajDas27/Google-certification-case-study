@@ -46,7 +46,7 @@ Key stakeholders:
 The raw dataset contains individual trip-level records with ride details such as start time, end time, rider type, and station information.
 
 📸 **Raw Data Snapshot**
-![ss](raw_data.png)
+![](ss/raw_data.png)
 
 ---
 
@@ -62,7 +62,7 @@ Key processing steps performed:
 
 
 📸 **Processed Data Snapshot**
-![ss](processed_data.png)
+![](ss/processed_data.png)
 
 ---
 
@@ -72,7 +72,7 @@ Key processing steps performed:
 Casual riders consistently take **longer rides** compared to members across all months.
 
 📸 **Average Ride Length by Month**
-![ss](avg_ride_length.png)
+![](ss/avg_ride_length.png)
 
 ---
 
@@ -81,7 +81,7 @@ Casual riders consistently take **longer rides** compared to members across all 
 - **Casual riders** peak on **weekends** (leisure behavior)
 
 📸 **Ride Frequency by Day of Week**
-![ss](ride_len_DOW.png)
+![](ss/ride_len_DOW.png)
 
 ---
 
@@ -91,7 +91,7 @@ This comparison highlights a clear contrast:
 - Members → **More rides, shorter duration**
 
 📸 **Ride Length vs Frequency**
-![ss](ride_len_vs_freq.png)
+![](ss/ride_len_vs_freq.png)
 
 ---
 
