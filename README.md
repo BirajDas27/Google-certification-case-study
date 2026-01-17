@@ -1,4 +1,5 @@
 # 🚲 Cyclistic Bike-Share Analysis (Case Study)
+![](Visuals/courseraDA-8.png)
 
 ## 📌 Project Overview
 This case study analyzes how **casual riders** and **annual members** use Cyclistic’s bike-share service differently.  
